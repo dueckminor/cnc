@@ -1,4 +1,4 @@
-# CBC-Mill
+# CNC-Mill
 
 This is my first try to build a CNC-Mill
 
